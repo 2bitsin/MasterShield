@@ -1,5 +1,5 @@
 ﻿Designator,Footprint,Quantity,Value,LCSC Part #
-"C1, C2, C3",0805,3,0.1uF,
+"C1, C2, C3",0805,3,0.1uF,https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_CCTC-TCC0805X7R104K500DT_C282732.html
 C4,CP_Elec_10x10.5,1,680uF,https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-SMD_KNSCHA-126RV0105_C7461236.html
 C5,CP_EIA-7343-15_Kemet-W_Pad2.25x2.55mm_HandSolder,1,220uF,https://www.lcsc.com/product-detail/Tantalum-Capacitors_KEMET-T491D227K016AT_C122304.html
 D1,0805,1,RXD,https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Foshan-NationStar-Optoelectronics-NCD0805C1_C84257.html
@@ -18,16 +18,16 @@ J8,TerminalBlock_4Ucon_1x04_P3.50mm_Horizontal,1,RS485 B,
 L1,L_Abracon_ASPI-0630LR,1,33uH,https://www.lcsc.com/product-detail/Power-Inductors_cjiang-Changjiang-Microelectronics-Tech-FXL0630-330-M_C177245.html
 "Q1, Q3",SOT-23,2,S8050,https://www.lcsc.com/product-detail/Bipolar-Transistors-BJT_JSMSEMI-S8050_C916390.html
 Q2,SOP-8_3.9x4.9mm_P1.27mm,1,Si9945AEY-T1,https://www.lcsc.com/product-detail/MOSFETs_TECH-PUBLIC-SI9945AEY_C3040623.html
-"R1, R17, R20, R26, R3, R8",0805,6,4.7K,
-"R10, R12, R13, R14, R21",0805,5,10K,
+"R1, R17, R20, R26, R3, R8",0805,6,4.7K,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F4701T5E_C17673.html
+"R10, R12, R13, R14, R21",0805,5,10K,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F1002T5E_C17414.html
 "R11, R16",0805,2,0R,DNP
-"R15, R24, R4, R9",0805,4,1K,
-R18,0805,1,2700k,
-"R19, R22",0805,2,82k,
-R2,0805,1,0R,
-"R23, R25",0805,2,100k,
-"R5, R7",0805,2,10R,
-R6,0805,1,120R,
+"R15, R24, R4, R9",0805,4,1K,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F1001T5E_C17513.html
+R18,0805,1,2700k,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0805J275-TS_C2933540.html
+"R19, R22",0805,2,82k,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F8202T5E_C17840.html
+R2,0805,1,0R,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F0000T5E_C17477.html
+"R23, R25",0805,2,100k,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F1003T5E_C149504.html
+"R5, R7",0805,2,10R,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_RALEC-RTH0510R0FTP_C7422239.html
+R6,0805,1,120R,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Ever-Ohms-Tech-CRH0805J120RP05Z_C149652.html
 TP1,TestPoint_Pad_D2.0mm,1,RO,
 TP10,TestPoint_Pad_D2.0mm,1,FUGA,
 TP17,TestPoint_Pad_D2.0mm,1,GATE,
