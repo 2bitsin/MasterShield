@@ -1,12 +1,12 @@
 ﻿Designator,Footprint,Quantity,Value,LCSC Part #
-"C1, C2, C3",0805,3,0.1uF,https://www.lcsc.com/product-detail/Multilayer-Ceramic-Capacitors-MLCC-SMD-SMT_CCTC-TCC0805X7R104K500DT_C282732.html
-C4,CP_Elec_10x10.5,1,680uF,https://www.lcsc.com/product-detail/Aluminum-Electrolytic-Capacitors-SMD_KNSCHA-126RV0105_C7461236.html
-C5,CP_EIA-7343-15_Kemet-W_Pad2.25x2.55mm_HandSolder,1,220uF,https://www.lcsc.com/product-detail/Tantalum-Capacitors_KEMET-T491D227K016AT_C122304.html
-D1,0805,1,RXD,https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Foshan-NationStar-Optoelectronics-NCD0805C1_C84257.html
-D2,0805,1,TXD,https://www.lcsc.com/product-detail/Light-Emitting-Diodes-LED_Foshan-NationStar-Optoelectronics-NCD0805C1_C84257.html
-"D3, D5",D_SOD-323_HandSoldering,2,SS53C,https://www.lcsc.com/product-detail/Schottky-Barrier-Diodes-SBD_LGE-SS53C_C330397.html
-D4,D_SOD-323_HandSoldering,1,10V,https://www.lcsc.com/product-detail/Zener-Diodes_Nexperia-PDZ10B-115_C85383.html
-D6,0805,1,LED,https://www.lcsc.com/product-detail/Light-Emitting-Diodes-span-style-background-color-ff0-LED-span_Yongyu-Photoelectric-SZYY0805R_C434431.html
+"C1, C2, C3",0805,3,0.1uF,C282732
+C4,CP_Elec_10x10.5,1,680uF,C7461236
+C5,CP_EIA-7343-15_Kemet-W_Pad2.25x2.55mm_HandSolder,1,220uF,C122304
+D1,0805,1,RXD,C84257
+D2,0805,1,TXD,C84257
+"D3, D5",D_SOD-323_HandSoldering,2,SS53C,C330397
+D4,D_SOD-323_HandSoldering,1,10V,C85383
+D6,0805,1,LED,C434431
 J1,PinHeader_1x08_P2.54mm_Vertical,1,CONTROL/SERIAL,
 J2,PinHeader_1x10_P2.54mm_Vertical,1,MISC,
 J3,PinHeader_1x06_P2.54mm_Vertical,1,ADC/SENSE,
@@ -15,19 +15,19 @@ J5,TerminalBlock_4Ucon_1x04_P3.50mm_Horizontal,1,RS485 A,
 J6,TerminalBlock_4Ucon_1x04_P3.50mm_Horizontal,1,EXTRA POWER,
 J7,TerminalBlock_4Ucon_1x04_P3.50mm_Horizontal,1,BATT,
 J8,TerminalBlock_4Ucon_1x04_P3.50mm_Horizontal,1,RS485 B,
-L1,L_Abracon_ASPI-0630LR,1,33uH,https://www.lcsc.com/product-detail/Power-Inductors_cjiang-Changjiang-Microelectronics-Tech-FXL0630-330-M_C177245.html
-"Q1, Q3",SOT-23,2,S8050,https://www.lcsc.com/product-detail/Bipolar-Transistors-BJT_JSMSEMI-S8050_C916390.html
-Q2,SOP-8_3.9x4.9mm_P1.27mm,1,Si9945AEY-T1,https://www.lcsc.com/product-detail/MOSFETs_TECH-PUBLIC-SI9945AEY_C3040623.html
-"R1, R17, R20, R26, R3, R8",0805,6,4.7K,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F4701T5E_C17673.html
-"R10, R12, R13, R14, R21",0805,5,10K,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F1002T5E_C17414.html
+L1,L_Abracon_ASPI-0630LR,1,33uH,C177245
+"Q1, Q3",SOT-23,2,S8050,C916390
+Q2,SOP-8_3.9x4.9mm_P1.27mm,1,Si9945AEY-T1,C3040623
+"R1, R17, R20, R26, R3, R8",0805,6,4.7K,C17673
+"R10, R12, R13, R14, R21",0805,5,10K,C17414
 "R11, R16",0805,2,0R,DNP
-"R15, R24, R4, R9",0805,4,1K,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F1001T5E_C17513.html
-R18,0805,1,2700k,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_FOJAN-FRC0805J275-TS_C2933540.html
-"R19, R22",0805,2,82k,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F8202T5E_C17840.html
-R2,0805,1,0R,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F0000T5E_C17477.html
-"R23, R25",0805,2,100k,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_UNI-ROYAL-Uniroyal-Elec-0805W8F1003T5E_C149504.html
-"R5, R7",0805,2,10R,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_RALEC-RTH0510R0FTP_C7422239.html
-R6,0805,1,120R,https://www.lcsc.com/product-detail/Chip-Resistor-Surface-Mount_Ever-Ohms-Tech-CRH0805J120RP05Z_C149652.html
+"R15, R24, R4, R9",0805,4,1K,C17513
+R18,0805,1,2700k,C2933540
+"R19, R22",0805,2,82k,C17840
+R2,0805,1,0R,C17477
+"R23, R25",0805,2,100k,C149504
+"R5, R7",0805,2,10R,C7422239
+R6,0805,1,120R,C149652
 TP1,TestPoint_Pad_D2.0mm,1,RO,
 TP10,TestPoint_Pad_D2.0mm,1,FUGA,
 TP17,TestPoint_Pad_D2.0mm,1,GATE,
@@ -39,9 +39,9 @@ TP6,TestPoint_Pad_D2.0mm,1,OV,
 TP7,TestPoint_Pad_D2.0mm,1,SHDN,
 TP8,TestPoint_Pad_D2.0mm,1,FAULT,
 TP9,TestPoint_Pad_D2.0mm,1,FUEL_GAUGE,
-U1,SOIC-8_3.9x4.9mm_P1.27mm,1,MAX485E,https://www.lcsc.com/product-detail/RS-span-style-background-color-ff0-485-span-RS-422-ICs_HTC-Korea-TAEJIN-Tech-MAX485ED_C481667.html
-U2,Infineon_PG-DSO-20-32,1,BTS724G,https://www.lcsc.com/product-detail/Power-Distribution-Switches_Infineon-Technologies-BTS724G_C82656.html
-U3,SOT-353_SC-70-5,1,74LVC1G08GW,https://www.lcsc.com/product-detail/Gates_Nexperia-74LVC1G08GW-125_C12512.html
-U4,SOT-23-5,1,LM321,https://www.lcsc.com/product-detail/Operational-Amplifier_XBLW-LM321DTR-XBLW_C18723612.html
-U5,TO-263-5_TabPin3,1,LM2596S-5,https://www.lcsc.com/product-detail/DC-DC-Converters_Texas-Instruments-LM2596SX-5-0-NOPB_C10002.html
-U6,TSOT-23-8,1,LTC4365TS8,https://www.lcsc.com/product-detail/Surge-Suppressors_Analog-Devices-LTC4365ITS8-TRPBF_C514441.html
+U1,SOIC-8_3.9x4.9mm_P1.27mm,1,MAX485E,C481667
+U2,Infineon_PG-DSO-20-32,1,BTS724G,C82656
+U3,SOT-353_SC-70-5,1,74LVC1G08GW,C12512
+U4,SOT-23-5,1,LM321,C18723612
+U5,TO-263-5_TabPin3,1,LM2596S-5,C10002
+U6,TSOT-23-8,1,LTC4365TS8,C514441
